@@ -1,14 +1,18 @@
 # ai-data-pipeline-sagemaker
 
+## Developer: Andrew Kremmidas — AWS Solutions Architect Associate
+
 AI Data Pipeline — SageMaker Model Training & Inference
 End-to-End Machine Learning Workflow on AWS
-Developer: Andrew Kremmidas — AWS Solutions Architect Associate
+
+
+
 A fully managed AI data pipeline that handles:
-1️⃣ Data ingestion
-2️⃣ Data preprocessing + feature engineering
-3️⃣ Model training and tuning (SageMaker)
-4️⃣ Model deployment with API inference
-5️⃣ MLOps automation + monitoring
+#1 Data ingestion
+#2 Data preprocessing + feature engineering
+#3 Model training and tuning (SageMaker)
+#4 Model deployment with API inference
+#5 MLOps automation + monitoring
 This project demonstrates modern cloud-native machine learning engineering — great for enterprise ML workloads.
 
 Real-World Architecture
@@ -47,7 +51,8 @@ Infra-as-Code (future)	DevOps + reproducibility
 Scalable endpoints	Global AI applications
 Cloud-native observability	Logs, metrics, cost control
 The goal: automated AI delivery pipeline — no training on laptops.
-⚙️ AWS Services Used
+
+AWS Services Used
 Amazon S3 — Data ingestion & lake storage
 AWS Lambda — Trigger data preprocessing
 Amazon SageMaker
@@ -130,5 +135,5 @@ Model drift detection with SageMaker Monitor
 EMR or Glue data engineering integration
 CI/CD with CodePipeline (MLOps)
 
-Project Goal
+Overall Project Goal
 Create a production-grade AI pipeline that continuously improves using scalable, automated cloud services — the foundation of real ML businesses.
