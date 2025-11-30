@@ -135,5 +135,5 @@ Model drift detection with SageMaker Monitor
 EMR or Glue data engineering integration
 CI/CD with CodePipeline (MLOps)
 
-Overall Project Goal
+## Overall Project Goal
 Create a production-grade AI pipeline that continuously improves using scalable, automated cloud services — the foundation of real ML businesses.
