@@ -128,7 +128,7 @@ project-3/
 ├─ pipeline-config/
 └─ README.md
 
- Future Enhancements
+Future Enhancements
 Hyperparameter Tuning (SageMaker HPO)
 Canary or Blue/Green endpoint deployments
 Model drift detection with SageMaker Monitor
